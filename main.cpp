@@ -1,6 +1,7 @@
 #include "Warrior.h"
 
-int MainFunction() 
+int MainFunction(); 
+
 {
 
 
